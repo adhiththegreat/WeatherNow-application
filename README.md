@@ -74,7 +74,7 @@ The app requires a free API key from OpenWeatherMap.
 3.  Open the Python script (e.g., `main.py` or `app.py`).
 4.  Find this line:
     ```python
-    api_key = "0dca3ec1d43e25b3b06bc2f42194924b"
+    api_key = "enter your api id "
     ```
 5.  **Replace the string** with your **own** personal API key.
 
